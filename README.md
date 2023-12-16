@@ -4,12 +4,12 @@ We aim to explore the sentiments expressed in the Friends TV show scripts. Our f
 # GitHub Directory<br>
 
 Final submission<br>
-* item Project code: CS410_Team_Project_Workspace.ipynb<br>
-Final report: CS410 Team Project Final Report.pdf<br>
-Presentation recording: xxxx<br>
-Tableau file: Tableau.twbx<br>
-Combined raw data: combinedData_raw.csv<br>
+* Project code: CS410_Team_Project_Workspace.ipynb<br>
+* Final report: CS410 Team Project Final Report.pdf<br>
+* Presentation recording: xxxx<br>
+* Tableau file: Tableau.twbx<br>
+* Combined raw data: combinedData_raw.csv<br>
 <br>
 Project proposal & progress report<br>
-Project proposal: CS410 Team Project Proposal.pdf<br>
-Progress report: CS410 Team Project Progress Report.pdf<br>
+* Project proposal: CS410 Team Project Proposal.pdf<br>
+* Progress report: CS410 Team Project Progress Report.pdf<br>
