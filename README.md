@@ -11,5 +11,6 @@ Final submission<br>
 * Combined raw data: combinedData_raw.csv<br>
 <br>
 Project proposal & progress report<br>
+
 * Project proposal: CS410 Team Project Proposal.pdf<br>
 * Progress report: CS410 Team Project Progress Report.pdf<br>
