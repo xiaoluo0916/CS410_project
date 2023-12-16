@@ -6,7 +6,7 @@ We aim to explore the sentiments expressed in the Friends TV show scripts. Our f
 Final submission<br>
 * Project code: CS410_Team_Project_Workspace.ipynb<br>
 * Final report: CS410 Team Project Final Report.pdf<br>
-* Presentation recording: xxxx<br>
+* Presentation recording: https://www.youtube.com/watch?v=GOjaOA9hOOk<br>
 * Tableau file: Tableau.twbx<br>
 * Combined raw data: combinedData_raw.csv<br>
 <br>
